@@ -32,6 +32,7 @@ SwiftUI와 SwiftData를 활용하여 레시피를 검색하고 즐겨찾기에 �
 
 프로젝트는 클린 아키텍처를 기반으로 설계되었습니다.
 
+```yaml
 RecipeFinder/
 ├── Entities/               # 데이터 모델
 │   └── Recipe.swift
@@ -47,8 +48,6 @@ RecipeFinder/
 └── App/                    # 앱 엔트리 포인트
     └── RecipeFinderApp.swift
 
-yaml
-Copy code
 
 ---
 
